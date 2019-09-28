@@ -16,6 +16,6 @@
 > 来看看钱院学辅技术小组的「大神」（caiji）们！
 
 - [黑山雁](intro/xjtu-blacksmith)
-- [air029](air029.github.io)
+- [air029](intro/air029)
 - [苏菲菲菲菲](intro/edmundwsy)  
 - [张舒皓](intro/zshmike314)

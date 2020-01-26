@@ -19,4 +19,4 @@
 - [air029](intro/air029)
 - [苏菲菲菲菲](intro/edmundwsy)  
 - [张舒皓](intro/zshmike314)
-- [赵恒欣](intro/HesseZhao.md)
+- [赵恒欣](intro/HesseZhao)

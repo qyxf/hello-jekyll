@@ -21,3 +21,4 @@
 - [张舒皓](intro/zshmike314)
 - [何雨萌](intro/RayneHe)
 - [赵恒欣](intro/HesseZhao)
+- [谢佳润](intro/JR1127)
